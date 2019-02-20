@@ -1,3 +1,3 @@
 # Ковалев Д.
 Технологии программиования. Лаб№1. 
-![alt text](penguin.png)
+![alt text](pingvin.jpg)
